@@ -17,3 +17,7 @@ Users may do the following:
 - Click the **Start** button to begin the stopwatch
 - Click the **Pause** button to pause the stopwatch, and the **Resume** button to resume its counting
 - Click the **Reset** button to stop the stopwatch and reset its count to 0
+
+## Licsense
+
+This project was made under the [MIT License](./LICENSE).
